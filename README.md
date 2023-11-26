@@ -1,4 +1,4 @@
-# Title-Hospitality-Analytics---Optimizing-Hotel-Performance
+# Hospitality Analytics Optimizing Hotel Performance
 
 ### Overview:
 
