@@ -26,5 +26,4 @@ Through this portfolio, I provide data-driven solutions that enable hotels to ma
 
 ### Dashboard 
 
-![Hospitality]([https://github.com/AhmedRabie01/Title-Hospitality-Analytics-Optimizing-Hotel-Performance/blob/main/photo/2023-11-25%20(4).png](https://github.com/AhmedRabie01/Title-Hospitality-Analytics-Optimizing-Hotel-Performance/blob/main/photo/2023-11-26%20(4).png))
-![Hospitality](https://github.com/AhmedRabie01/Title-Hospitality-Analytics-Optimizing-Hotel-Performance/blob/main/photo/2023-11-25%20(1).png)
+![Hospitality](https://github.com/AhmedRabie01/Title-Hospitality-Analytics-Optimizing-Hotel-Performance/blob/main/photo/2023-11-26%20(4).png)
