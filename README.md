@@ -24,6 +24,7 @@ The dashboard encapsulates crucial hospitality performance metrics:
 
 Through this portfolio, I provide data-driven solutions that enable hotels to make informed decisions, optimize room allocations, enhance booking platforms, and ultimately improve profitability and guest satisfaction.
 
-### Dashboard 
+### Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiOTc5ZTgxOTQtMzIwNC00NTFiLWEzMDQtZDljMzY1NzE1NDM0IiwidCI6ImM5ZjRkOWY1LTQwNWMtNDU2My05MzZhLTI5ZDFhNDdmOTMxMiJ9
 
 ![Hospitality](https://github.com/AhmedRabie01/Title-Hospitality-Analytics-Optimizing-Hotel-Performance/blob/main/photo/2023-11-26%20(4).png)
